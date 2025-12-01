@@ -1,3 +1,1 @@
-{"hosts": [{"ip": "10.144.239.47", "user": "root", "password": "lyw520864"}]}
-{"hosts": [{"ip": "172.18.0.1", "user": "root", "password": "lyw520864"}]}
-{"hosts": [{"ip": "172.17.0.1", "user": "root", "password": "lyw520864"}]}
+{"hosts": [{"ip": "10.144.239.47", "user": "root", "password": "lyw520864"}, {"ip": "172.17.0.1", "user": "root", "password": "lyw520864"}, {"ip": "172.18.0.1", "user": "root", "password": "lyw520864"}]}
